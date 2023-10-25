@@ -29,7 +29,7 @@ Turning caffeine into code since 2020. Currently on a C++, JavaScript, React, an
 ## Fun Fact
 When I'm not immersed in the world of coding, you can catch me in the middle of a sci-fi novel or attempting to break my own record in the kitchen for the spiciest curry concoction. 🔥📚🌶️
 
-
+[![An image of @shankersingh01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shankersingh01)](https://holopin.io/@shankersingh01)
 
 <!---
 shankersingh01/shankersingh01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
