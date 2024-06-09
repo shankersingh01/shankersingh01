@@ -1,5 +1,7 @@
 # Hey there! 👋 I'm Shanker Singh
 
+![](https://leetcard.jacoblin.cool/shanker26?cache=0)
+
 ## About Me
 MCA Student | Frontend Dev | Blockchain Enthusiast | Android Aficionado
 
