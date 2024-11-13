@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shanker Singh</h1>
-<h3 align="center">MCA Student | Frontend Dev | Blockchain Enthusiast | Android Aficionado |
+<h3 align="center">MCA Student | Frontend Dev | AI/ML |
  Turning caffeine into code since 2020. Currently on a C++, JavaScript, React, and Tailwind CSS spree.</h3>
 
 
